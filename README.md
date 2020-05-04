@@ -3,8 +3,8 @@
 
 ## Courses:
 ### 1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/saurabh-smk/Coursera-Tensorflow-in-practice/tree/master/Course1-)
-#### > [1. Week-1](https://github.com/saurabh-smk/Coursera-Tensorflow-in-practice/tree/master/Course1-/week1)
-       [Assignment Notebook](https://github.com/saurabh-smk/Coursera-Tensorflow-in-practice/blob/master/Course1-/week1/Exercise_1_House_Price_Prediction.ipynb)
+#### [1. Week-1](https://github.com/saurabh-smk/Coursera-Tensorflow-in-practice/tree/master/Course1-/week1)
+   [Assignment Notebook](https://github.com/saurabh-smk/Coursera-Tensorflow-in-practice/blob/master/Course1-/week1/Exercise_1_House_Price_Prediction.ipynb)
 #### ⋅⋅ 2. Week-2
 #### ⋅⋅ 3. Week-3
 #### ⋅⋅ 4. Week-4
